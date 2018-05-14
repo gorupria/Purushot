@@ -8,7 +8,7 @@ end
 gem 'bootstrap', '~> 4.1', '>= 4.1.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'sprockets-rails', '~> 3.2', '>= 3.2.1'
-gem 'postgres', '~> 0.8.1'
+gem 'pg', '~> 1.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
 # Use Puma as the app server
